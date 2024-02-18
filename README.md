@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rycks64
 - 👀 I’m interested in learn more about games and apps
 - 🌱 I’m currently learning about C#
-- 😄 Pronouns: Him/his
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am 18 years old, I am from Brazil and I like to play videogames as well
 
 <!---
