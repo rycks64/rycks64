@@ -15,3 +15,4 @@ I’m an anime lover, music enthusiast, and always eager to learn new things abo
 
 📫 How to reach me
 Feel free to connect with me or check out my other platforms below:
+LinkedIn (https://www.linkedin.com/in/henrique-santos-6298a92b4/)
