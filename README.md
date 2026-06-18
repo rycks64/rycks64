@@ -1,107 +1,62 @@
 # Hi, I'm Henrique 👋
 
-## 🚀 About Me
+## About Me
 
-🇧🇷 Brazilian
-
-💼 Intern at IBM, where I develop, test, and deploy Python-based automation solutions for internal use.
-🎓 Currently pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University.
-🔐 Actively studying Infrastructure and Cybersecurity.
-🧠 I'm a curious person who enjoys learning and exploring new technologies. My goal is to continuously expand my knowledge in software development, automation, infrastructure, and security.
+🇧🇷 Brazilian developer focused on Python, automation, web development, infrastructure, and cybersecurity.  
+💼 I build solutions with Django, Docker, PostgreSQL, Redis, and modern web technologies.  
+🎓 Systems Analysis and Development student at Cruzeiro do Sul University.  
+🧠 Always learning by building real projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-### Programming Languages
-
-* Python
-* JavaScript
-
-### Databases
-
-* PostgreSQL
-* MySQL
-
-### Frameworks
-
-* Django
-* Flask
-* Tkinter
-* CustomTkinter
-* Tailwind
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,django,flask,postgres,mysql,docker,redis,nginx,linux,git,github,vscode,tailwind&theme=dark&perline=7)](https://skillicons.dev)
 
 ### Libraries
-
-* Pandas
-* OpenPyXL
-
-### Infrastructure & DevOps
-
-* Docker
-* Nginx
-* Redis
-* Linux
-* Windows
-
-### Tools
-
-* VS Code
-* Git & GitHub
+- Pandas
+- OpenPyXL
+- Tkinter
+- CustomTkinter
 
 ---
 
-## 🌱 Currently Learning
+## Learning
 
-* Infrastructure
-* Cybersecurity
-* Networking
-* Containers & Self-Hosting
-* Software Development Best Practices
-
----
-
-## 🌍 Languages
-
-* Portuguese (Native)
-* English (Fluent - Level B1)
-* Spanish (Conversational / Intermediate)
+- Infrastructure
+- Cybersecurity
+- Networking
+- Containers & Self-Hosting
+- Software Development Best Practices
 
 ---
 
-## 📌 Current Project
+## Current Project
 
-I'm currently building a Home Server using an Orange Pi single-board computer.
-
-The goal is to host a dynamic web application built with:
-
-* Django
-* PostgreSQL
-* Redis
-* Nginx
-* Docker
-
-This project will serve as a virtual showcase for a small business while also functioning as a hands-on learning environment for web development, infrastructure, self-hosting, and system administration.
+Building a home server with Orange Pi to host a business showcase web application using Django, PostgreSQL, Redis, Nginx, and Docker.
 
 ---
 
-## 😁 Fun Facts
+## Languages
 
-🐶 I have two dogs  
-🎮 I enjoy playing video games  
-🎵 I love listening to music  
-📺 I enjoy watching anime  
-🚀 I'm passionate about challenges, innovation, and technology  
-💡 I believe the best way to learn is by building and experimenting  
-⚔️ One of my favorite movies is Star Wars Episode III: Revenge of the Sith
+- Portuguese: Native
+- English: Intermediate
+- Spanish: Conversational
 
 ---
 
-## 📫 Connect With Me
+## Fun Facts
 
-* LinkedIn: https://www.linkedin.com/in/henrique-santos-6298a92b4/
-* E-mail: rique.s.j10@gmail.com
+- I have two dogs.
+- I enjoy games, music, and anime.
+- I like challenges, innovation, and hands-on learning.
+- Favorite movie: *Star Wars Episode III: Revenge of the Sith*
 
 ---
 
-> "Always learning, always building."
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/henrique-santos-6298a92b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDqvbAfmFTsWhA9lqfx7o1Q%3D%3D
+- E-mail: rique.s.j10@gmail.com
+
+> Always learning
