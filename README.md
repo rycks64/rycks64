@@ -7,7 +7,9 @@
 🎓 Systems Analysis and Development student at Cruzeiro do Sul University.  
 🧠 Always learning by building real projects.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN](https://www.linkedin.com/in/henrique-santos-6298a92b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDqvbAfmFTsWhA9lqfx7o1Q%3D%3D))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](rycks64)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rique.s.j10@gmail.com)
 
 ## Tech Stack
 
@@ -53,10 +55,5 @@ Building a home server with Orange Pi to host a business showcase web applicatio
 - Favorite movie: *Star Wars Episode III: Revenge of the Sith*
 
 ---
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/henrique-santos-6298a92b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDqvbAfmFTsWhA9lqfx7o1Q%3D%3D
-- E-mail: rique.s.j10@gmail.com
 
 > Always learning
